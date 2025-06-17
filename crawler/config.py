@@ -29,6 +29,7 @@ LOG_LEVEL = "INFO"
 # User-Agent для HTTP-запросов (иногда сайты блокируют без него)
 USER_AGENT = "ParallelCrawlerBot/1.0 (+https://github.com/yourusername/parallel_web_crawler)"
 
+
 # Заголовки для HTTP-запросов
 HEADERS = {
     "User-Agent": USER_AGENT,
