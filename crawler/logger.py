@@ -45,6 +45,7 @@ def setup_logger(name=None):
 
     return logger
 
+
 # Глобальный логгер, который можно импортировать
 log = setup_logger()
 
